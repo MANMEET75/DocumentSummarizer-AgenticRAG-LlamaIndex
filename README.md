@@ -3,7 +3,7 @@
 
 ## Agent Overview
 
-This agent I have created uses the Llama Index framework, enabling it to summarize documents uploaded by users in PDF format. It has the ability to leverage Hugging Face, OpenAI, as well as Google Gemini large language models. It is built using FastAPI, allowing us to call it from anywhere we need when creating larger projects.
+This agent I have created uses the Llama Index framework, enabling it to summarize documents uploaded by users in PDF format. It employs the SummaryIndex and RouterQueryEngine to enhance its functionality. It has the ability to leverage Hugging Face, OpenAI, as well as Google Gemini large language models. Built using FastAPI, it allows us to call it from anywhere we need when creating larger projects.
 
 
 ## Technical Stack
