@@ -35,7 +35,7 @@ This agent I have created uses the Llama Index framework, enabling it to summari
 ### 1. Cloning the Repository
 ```bash
 
-git clone https://github.com/MANMEET75/HindBot.git
+git clone https://github.com/MANMEET75/DocumentSummarizer-AgenticRAG-LlamaIndex.git
 ```
 ### 2. Creating the virtual environment using anaconda
 ```bash
