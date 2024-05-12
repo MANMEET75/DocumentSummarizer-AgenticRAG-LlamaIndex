@@ -1,6 +1,4 @@
 # DocumentSummarizer-AgenticRAG-LlamaIndex
-
-# HindBot
 <img src="static/demo.gif">
 
 ## Agent Overview
