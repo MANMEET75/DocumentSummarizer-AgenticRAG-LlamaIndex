@@ -77,7 +77,7 @@ async def upload_file(request: Request, file: UploadFile = File(...)):
 
 
         # Google Palm (Useful in the case of big pdfs)
-        Settings.llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key="AIzaSyCjyyhW36eS4Tkk6N2gITsBDOR6Q9kJeRI", temperature=0.1)
+        Settings.llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key="", temperature=0.1)
         Settings.embed_model = GooglePalmEmbeddings()
 
         summary_index = SummaryIndex(nodes)
