@@ -1,0 +1,10 @@
+llama_index
+langchain-google-genai
+google-generativeai
+langchain
+llama-index-llms-langchain
+llama-index-embeddings-langchain
+git+https://github.com/huggingface/huggingface_hub
+sentence-transformers==2.2.2
+fastapi
+uvicorn
